@@ -120,7 +120,9 @@ Select emulator or connect a real Android device and if you run the app in real 
 Mobile Debugging select below option in phone.
 
 Setting -> Additional Setting -> Developer Option - > USB Debugging 
+<img width="323" alt="Screenshot 2021-12-03 at 10 17 56" src="https://user-images.githubusercontent.com/22030444/144620303-5b93a364-c2e2-40e0-b853-338e2a196b89.png">
 
 make USB Debuggin ON.
 
 Finally App run in you phone and its look like:
+

@@ -7,6 +7,7 @@ by Using API](http://openweathermap.org/forecast5) to retrieve the current 5 day
 
 ## Use and Run the app
 * Install the apk from Link in android device.
+* https://github.com/Neha-Rajput/WeatherForecastApp/blob/main/weatherapp-debug.apk
 * Makesure you have active network(Data or WIFI)
 * open the app you will get the splash screen, after splash screen(first screen)you will able to see the search bar int top most of the dashboad screen
 i.e (second screen). 

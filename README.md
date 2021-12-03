@@ -6,13 +6,13 @@ by Using API](http://openweathermap.org/forecast5) to retrieve the current 5 day
 
 
 ## Use and Run the app
-Install the apk from Link in android device.
-Makesure you have active network(Data or WIFI)
-open the app you will get the splash screen, after splash screen(first screen)you will able to see the search bar int top most of the dashboad screen
+* Install the apk from Link in android device.
+* Makesure you have active network(Data or WIFI)
+* open the app you will get the splash screen, after splash screen(first screen)you will able to see the search bar int top most of the dashboad screen
 i.e (second screen). 
-please enter the city name and select the suitble city from the search bar of city display in list.
+* please enter the city name and select the suitble city from the search bar of city display in list.
 and after selecting the city you will able to see the current weather and future weather forcast cards in app.
-user can also see the details of future weather forcast in detail by selecting the spasific card and you will navigte to the details forecast screen.
+* user can also see the details of future weather forcast in detail by selecting the spasific card and you will navigte to the details forecast screen.
 
 ## Tools 
 

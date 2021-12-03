@@ -126,3 +126,7 @@ make USB Debuggin ON.
 
 Finally App run in you phone and its look like:
 
+
+<img width="421" alt="Screenshot 2021-12-03 at 10 19 02" src="https://user-images.githubusercontent.com/22030444/144620610-c7b9d350-7e5a-443a-bcb4-5657926cbe8d.png">
+<img width="377" alt="Screenshot 2021-12-03 at 10 19 12" src="https://user-images.githubusercontent.com/22030444/144620778-087c9152-9954-4905-aeaa-e6eb06721b89.png">
+

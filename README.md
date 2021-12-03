@@ -108,7 +108,7 @@ Use git clone command to clone repository
 ```
 https://github.com/Neha-Rajput/WeatherForecastApp.git
 ```
-After successful cloning of project open project in Android Studio.
+After successful cloning of project open the project in Android Studio.
 
 Android Studio -> File -> Open
 select file "Weather app" -> OK
@@ -121,13 +121,12 @@ Select emulator or connect a real Android device and if you run the app in real 
 Mobile Debugging select below option in phone.
 
 Setting -> Additional Setting -> Developer Option - > USB Debugging 
-<img width="323" alt="Screenshot 2021-12-03 at 10 17 56" src="https://user-images.githubusercontent.com/22030444/144620303-5b93a364-c2e2-40e0-b853-338e2a196b89.png">
 
 make USB Debuggin ON.
 
 Finally App run in you phone and its look like:
 
-
+<img width="323" alt="Screenshot 2021-12-03 at 10 17 56" src="https://user-images.githubusercontent.com/22030444/144620303-5b93a364-c2e2-40e0-b853-338e2a196b89.png">
 <img width="421" alt="Screenshot 2021-12-03 at 10 19 02" src="https://user-images.githubusercontent.com/22030444/144620610-c7b9d350-7e5a-443a-bcb4-5657926cbe8d.png">
 <img width="377" alt="Screenshot 2021-12-03 at 10 19 12" src="https://user-images.githubusercontent.com/22030444/144620778-087c9152-9954-4905-aeaa-e6eb06721b89.png">
 
